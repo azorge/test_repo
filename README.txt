@@ -1,0 +1,1 @@
+My custom test repo for QA automation course.
